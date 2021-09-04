@@ -1,0 +1,10 @@
+-Phát hiện khuôn mặt: xong
+-Train Data: xong
+-Nhận diện khuôn mặt: xong
+-Dựng GUI:
+	- Form 1:
+		- Lưu data khuôn mặt
+		- Trained
+	- Form 2:
+		- Chấm công
+		- Lưu file chấm công
